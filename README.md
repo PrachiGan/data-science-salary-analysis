@@ -1,0 +1,1 @@
+This repository contains a Power BI project focused on analyzing real-life survey data related to job titles and salaries in the data science industry. The project explores salary trends across different roles, experience levels, and geographic regions, providing valuable insights for professionals and organizations looking to understand compensation patterns in data science.
